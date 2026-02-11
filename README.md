@@ -1,2 +1,3 @@
-# git-conflict-challenge
+# Version locale
+
 # Git Conflict Challenge - GitHub
