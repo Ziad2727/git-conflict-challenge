@@ -1,3 +1,2 @@
-# Version locale
+# Version finale (résolu)
 
-# Git Conflict Challenge - GitHub
